@@ -1,3 +1,3 @@
 %%% Comment %%%
-function y = git_Summe(a, b);
-y = a + b;
+function y = git_Summe(a, b, c);
+y = a + b + c;
